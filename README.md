@@ -1,11 +1,10 @@
-# publications
-A list of publications, presentations, and posters of original work from me.
+# A list of publications, presentations, and posters of original work from me
 
-# Publications 
+## Publications 
 Crivelli-Decker, J, Goals 
 
-# Talks
+## Talks
 Context dependent journeys in HPC.
 
-# Poster Presentations 
+## Poster Presentations 
 Cohn Sheehy, 
